@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+tensorflow_env/
+food-101/
+data/
+# Ignore all zip compressed archives
+*.zip
